@@ -1,2 +1,0 @@
-# bot-dis
-discird-bot
